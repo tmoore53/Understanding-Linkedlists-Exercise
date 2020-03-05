@@ -10,16 +10,7 @@ namespace Alex_Study_After_hours_Linked_List_3_4_20
     {
         static void Main(string[] args)
         {
-            //List<int> myList = new List<int> { };
-            //myList.Add(1);
-            //myList.Add(1);
-            //myList.Add(1);
-            //myList.Add(1);
-            //myList.Add(1);
-            //foreach (int item in myList)
-            //{
-            //    Console.WriteLine(item);
-            //}
+
 
             //Linked List
             //This project gives a better understanding to C# linkedlists
