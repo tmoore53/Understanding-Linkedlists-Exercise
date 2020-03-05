@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alex Study After hours Linked List 3-4-20", "Alex Study After hours Linked List 3-4-20\Alex Study After hours Linked List 3-4-20.csproj", "{3659E891-4807-4BC8-B3FA-9D2DFFA9B0DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3659E891-4807-4BC8-B3FA-9D2DFFA9B0DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3659E891-4807-4BC8-B3FA-9D2DFFA9B0DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3659E891-4807-4BC8-B3FA-9D2DFFA9B0DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3659E891-4807-4BC8-B3FA-9D2DFFA9B0DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE28B54E-3C6B-4E20-8A0F-93AC5CE10E8D}
+	EndGlobalSection
+EndGlobal
